@@ -1,0 +1,46 @@
+
+.header{
+
+	background-color: #585858;
+	padding: 10px;
+	text-align: center;
+	border-radius: 15px;
+	margin-bottom: 10px;
+}	
+
+.my{
+
+	color: blue;
+	font-size: 40px;
+	font-style: italic;
+}
+
+.sidebar{
+	position: absolute;
+	border-radius: 15px;
+	background-color: cyan;
+	height: 400px;
+	width: 300px;
+}
+
+.sidebar ul li{
+	margin-left: -20px;
+	list-style-type: none;
+}
+
+.content{
+	padding: 10px;
+	border-radius: 15px;
+	margin-left: 0px;
+	background-color: #D8D8D8 ;
+	float: right;
+	width:950px;
+}
+
+.footer{
+	margin: 10px;
+	clear: right;
+	text-align: center;
+	font-size: 12px;
+	border-top: dashed;
+}
