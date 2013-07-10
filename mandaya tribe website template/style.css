@@ -1,0 +1,187 @@
+
+	body,
+	html {
+		margin: 0px;
+		padding:0;
+		color:#000;
+		background:#a7a09a;
+	}
+	#wrap {
+		width:950px;
+		margin:0 auto;
+		background:#99c;
+	}
+	#header {
+		height:200px;
+    	padding:5px 10px;
+		background-color:#3f1718;
+		background-repeat: no-repeat;
+		opacity: .85;	
+	
+	}
+	
+	.img{
+		margin:auto;
+		max-width:600px;	
+		max-height: 200px;
+		opacity: .25;
+		background-image: url("flip1.jpg");
+	}
+	
+	
+	
+	#header h1.sitetitle{
+		color:#FFFFFF;
+		font-family: "sans serif";
+
+	}
+	
+	#header h1{
+		margin-left:15px;
+		text-align: left;
+		font-size:55px;
+	}
+	
+
+	.felect{
+		
+		float:left;
+	}
+	#header p{
+		font-weight: bolder;
+		margin-left:15px;
+		margin-top:-40px;
+		color:#FFFFFF;
+		font-size:35px;
+		font-family: "font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;";
+	}
+	
+	.search{
+		font-weight:bold;
+		margin-right:45px;
+		float: right;
+		font-size: 16px;
+
+	}
+
+	.searchbox{
+		border-radius: 5px;
+	}
+
+
+	#nav {
+		height:25px;
+		padding:5px 10px;
+		background-image: url("menu_bg.jpg");
+		background-repeat: repeat;
+	}
+	#nav ul {
+		margin:0;
+		padding:0;	
+	}
+	#nav li {
+		display:inline;
+		margin:0;
+		padding:0;
+		list-style:none;
+	}
+	
+
+	
+	#nav li a:link{
+		color: white;
+		text-decoration: none;
+	}
+	
+	#nav li a:visited{
+		color: white;
+	}
+	
+	
+	#main {
+		text-align: justify;
+		float:left;
+		width:650px;
+		padding:10px;
+		background:#FFFFFF;
+		font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+		
+	}
+	
+	#main h2{
+		color: #24486C;
+		margin-top: 5px;
+		margin-bottom:2px;
+		font-size:medium;
+		text-decoration: underline;
+	}
+		
+	#main p{
+		
+		margin-top:5px;
+	}
+	
+	.floatFigure{
+		max-width:220px;
+		margin-top: 5px;
+		float: left;
+		margin-left: 0px;
+	}
+	
+	figcaption{
+		font-size: small;
+		font-style:italic;
+		
+	}
+	
+	.circular {
+		margin:10px auto;
+		width: 230px;
+		height: 230px;
+		border-radius: 150px;
+		-webkit-border-radius: 150px;
+		-moz-border-radius: 150px;
+		background: url("mandaya-festival-davao-oriental.jpg") no-repeat;
+	}
+	
+	.circular2 {
+		margin:10px auto;
+		margin:auto;
+		width: 230px;
+		height: 230px;
+		border-radius: 150px;
+		-webkit-border-radius: 150px;
+		-moz-border-radius: 150px;
+		background: url("weave.jpg") no-repeat;
+	}
+	
+	
+	h2 {
+		margin:0 0 1em;
+	}
+	#sidebar {
+		float:right;
+		width:260px;
+		padding:10px;
+		background:#99c;
+	}
+	
+	#sidebar img{
+		
+		margin-left: -10px;
+	}
+	#footer {
+		height:50px;
+		text-align:center;
+		font-style:italic;
+		clear:both;
+		padding:5px 10px;
+		background:#cc9;
+	}
+	#footer p {
+		margin:5px;
+    }
+	* html #footer {
+		height:4px;
+	}
+	
