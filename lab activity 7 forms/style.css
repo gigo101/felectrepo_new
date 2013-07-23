@@ -1,0 +1,33 @@
+body{
+
+	padding: 10px;
+	margin: 10px;
+}
+
+fieldset{
+	width: 700px;
+	margin-bottom:20px; 
+}
+
+legend{
+
+	font-weight: bold;
+	font-style: italic;
+}
+
+label{
+	width: 100px;
+	display: inline-block;
+	margin: 6px;
+}
+
+input:focus {
+  background: #68afd1;
+}
+
+input[type=submit]{
+
+	width: 150px;
+	height: 40px;
+	padding: 10px;
+}
